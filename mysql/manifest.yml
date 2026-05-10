@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: mysql
-        image: ssr2702/mysql:1.0.0
+        image: ssr2702/mysql:1.1.0
 ---
 apiVersion: v1
 kind: Service
