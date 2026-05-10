@@ -37,7 +37,7 @@ spec:
     spec:
       containers:
       - name: shipping
-        image: ssr2702/shipping:1.0.0
+        image: ssr2702/shipping:1.1.0
         imagePullPolicy: Always 
         resources:
           requests:
